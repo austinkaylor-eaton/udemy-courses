@@ -1,0 +1,10 @@
+[workspace]
+resolver = "2"
+members = [
+    "arrays",
+    "linked-lists",
+    "stacks-and-queues",
+    "trees",
+    "graphs",
+    "sorting-algorithms",
+]
